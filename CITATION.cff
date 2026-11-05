@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this notebook, please cite it as below."
+type: software
+title: "Learning by Trial and Error: Reinforcement Learning for Managers"
+abstract: >-
+  A companion extra to Supply Chain AI in Python, written for
+  scmaiteaching.org; it is not part of the book. A Jupyter notebook that
+  explains reinforcement learning to managers, without coding: a dog learning
+  a maze, exploring against exploiting, reward design, and a simple rule
+  against two learners. The MIT License covers the notebook's code cells
+  only, not its explanatory text.
+authors:
+  - family-names: Luo
+    given-names: "Charles C."
+    orcid: "https://orcid.org/0000-0002-3641-0787"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/charlesluo22/scm-ai-rl-managers"
+url: "https://scmaiteaching.org"
+keywords:
+  - reinforcement learning
+  - management education
+  - Q-learning
+  - teaching
