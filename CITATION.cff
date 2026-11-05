@@ -14,10 +14,10 @@ authors:
     given-names: "Charles C."
     orcid: "https://orcid.org/0000-0002-3641-0787"
 version: 1.0.0
-doi: 10.5281/zenodo.23970362
+doi: 10.5281/zenodo.23970433
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.23970362
+    value: 10.5281/zenodo.23970433
     description: "Version 1.0.0"
 license: MIT
 repository-code: "https://github.com/charlesluo22/Reinforcement-Learning-RL-for-Managers"
