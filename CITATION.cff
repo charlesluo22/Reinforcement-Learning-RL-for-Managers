@@ -15,7 +15,7 @@ authors:
     orcid: "https://orcid.org/0000-0002-3641-0787"
 version: 1.0.0
 license: MIT
-repository-code: "https://github.com/charlesluo22/scm-ai-rl-managers"
+repository-code: "https://github.com/charlesluo22/Reinforcement-Learning-RL-for-Managers"
 url: "https://scmaiteaching.org"
 keywords:
   - reinforcement learning
