@@ -2,7 +2,7 @@
 
 A companion extra to *Supply Chain AI in Python*, written for [scmaiteaching.org](https://scmaiteaching.org), for the book's Executive track: readers who run notebooks as-is and focus on what the results mean for a business. It is not part of the book.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23970433.svg)](https://doi.org/10.5281/zenodo.23970433) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charlesluo22/Reinforcement-Learning-RL-for-Managers/blob/v1.0.0/RL_for_Managers.ipynb)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23970433.svg)](https://doi.org/10.5281/zenodo.23970433) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/charlesluo22/Reinforcement-Learning-RL-for-Managers/blob/main/RL_for_Managers.ipynb)
 
 Reinforcement learning (RL) is learning a sequence of decisions by trial and error, from a score that may come only at the end. This notebook explains it for managers, with a dog, a maze and a treat, and no coding:
 
